@@ -1,0 +1,4 @@
+sudo apt-get update --yes
+sudo apt-get upgrade --yes
+apt-get install apache2
+apt-get install vsftpd
